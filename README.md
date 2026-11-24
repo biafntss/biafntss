@@ -30,7 +30,7 @@ Sou estudante de Informática para Internet e estou sempre buscando aprender coi
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=biafntss&show_icons=true&hide_border=true&bg_color=0D1117&title_color=547EBA&icon_color=547EBA&text_color=C9D1D9&locale=pt-br"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biafntss&layout=compact&hide_border=true&bg_color=0D1117&title_color=547EBA&text_color=C9D1D9&locale=pt-br"/>
+
 
 </div>
 
